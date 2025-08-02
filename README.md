@@ -4,14 +4,16 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Devindi+Tharudni!;UI%2FUX+Designer+%7C+Frontend+Developer;Crafting+Designs+that+Feel+Effortless;Code+that+Brings+Design+to+Life" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Devindi+Tharudni!;UI%2FUX+Designer+%7C+Frontend+Developer;Designing+for+Humans+%F0%9F%A4%9D;Building+with+Passion+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <b>🧠 Curious thinker · 🎨 Pixel-perfectionist · 💻 Code-lover · ☕ Fueled by creativity</b>
+  <img src="https://img.shields.io/badge/Inspired%20by%20User-Centered%20Design-orange?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffa500,ff7f50&height=6&section=header"/>
+</div>
 
 ## 🧩 About Me
 
@@ -21,25 +23,23 @@ role: UI/UX Designer & Frontend Developer
 location: Homagama, Sri Lanka 🇱🇰
 email: devinditharudini07@gmail.com
 portfolio: http://my-portfolio-ebon-six-77.vercel.app
-interests: [design systems, accessibility, micro-interactions, animation, UX research]
+strengths: [collaboration, empathy, creativity, clean design, frontend responsiveness]
 ```
-
 - 👩‍🎓 Graduate in Computer Science (University of Plymouth)
-- 💡 I build human-centered UI & scalable, responsive web frontends
-- 🌱 I’m growing into motion design and system architecture
-- 🔍 Passionate about empathy-driven design & clean coding practices
+- 🎯 Dedicated to crafting intuitive, accessible digital products
+- ✨ Turning ideas into beautiful and usable design + frontend systems
 
 ---
 
-## 🛠️ My Design & Dev Toolbox
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,react,flutter,tailwind,html,css,js,python,firebase,postman,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=figma,react,flutter,html,css,js,firebase,python,github,mysql,postman" />
 </p>
 
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevindiTharudini&show_icons=true&theme=radical" width="48%" />
@@ -66,30 +66,27 @@ interests: [design systems, accessibility, micro-interactions, animation, UX res
 
 ---
 
-## ✨ UX & Code Beliefs
+## ✨ Design Beliefs
 
-> “Design isn’t just how it looks — it’s how it works.”  
-> *– Steve Jobs*
+> “Good design is obvious. Great design is transparent.” – Joe Sparano
 
-- Make it usable before making it beautiful  
-- Accessibility is not optional  
-- Good UX = less confusion = more joy
+- 👁️ Clarity over clutter
+- 🤝 Design that empathizes with real people
+- ⚡ Speed + simplicity = happy user
 
 ---
 
-## 🪄 Fun Snippet
+## 🎉 Fun Snippet
 
 ```css
-.designer::before {
-  content: "🎨 Sketching empathy into interfaces";
+.devindi::before {
+  content: "🎨 Designer who thinks in systems";
 }
-.developer::after {
-  content: "💻 Translating visuals into clean, scalable code";
+.devindi::after {
+  content: "💻 Developer who designs with care";
 }
 ```
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fc4a1a,f7b733&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500,ff7f50&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
+</div>
