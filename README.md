@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./banner.png" alt="Devindi Tharudni Banner" width="100%">
 </p>
@@ -70,9 +69,9 @@ strengths: [collaboration, empathy, creativity, clean design, frontend responsiv
 
 > “Good design is obvious. Great design is transparent.” – Joe Sparano
 
-- 👁️ Clarity over clutter
-- 🤝 Design that empathizes with real people
-- ⚡ Speed + simplicity = happy user
+- 👁️ Clarity over clutter  
+- 🤝 Design that empathizes with real people  
+- ⚡ Speed + simplicity = happy user  
 
 ---
 
@@ -87,6 +86,12 @@ strengths: [collaboration, empathy, creativity, clean design, frontend responsiv
 }
 ```
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevindiTharudini&label=Profile%20Views&color=ff6b00&style=for-the-badge" alt="Devindi Tharudni Profile Views" />
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500,ff7f50&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,800080&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
 </div>
