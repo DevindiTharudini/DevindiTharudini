@@ -96,3 +96,14 @@ strengths: [collaboration, empathy, creativity, clean design, frontend responsiv
  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,f75990,800080&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
 </div>
+<div align="center">
+  <svg viewBox="0 0 1200 120" width="100%" height="100">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#FF6B00;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#800080;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M0,0 C300,100 900,0 1200,100 L1200,120 L0,120 Z" fill="url(#grad)" />
+  </svg>
+</div>
