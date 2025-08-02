@@ -76,7 +76,7 @@ strengths: [collaboration, empathy, creativity, clean design, frontend responsiv
 
 ---
 
-## 🎉 Fun Snippet
+👀 
 
 ```css
 .devindi::before {
@@ -89,4 +89,4 @@ strengths: [collaboration, empathy, creativity, clean design, frontend responsiv
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500,ff7f50&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
-</div> this is current full code 
+</div>
