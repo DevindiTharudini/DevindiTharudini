@@ -1,91 +1,92 @@
-<!-- Banner -->
+
 <p align="center">
-  <img src="https://your-image-link/banner.png" alt="Devindi Tharudini Banner" width="100%" />
+  <img src="./banner.png" alt="Devindi Tharudni Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Devindi Tharudini</h1>
-<h3 align="center">Computer Science Graduate | Frontend & UI/UX Enthusiast | Passionate about building intelligent web experiences</h3>
-
----
-
-<!-- About Me -->
-## 🧑‍💻 About Me
-
-- 🎓 I'm a Computer Science graduate from Plymouth University (2nd Lower Class Honours).
-- 🌱 Currently exploring **Full-Stack Development** and **UI/UX Design**.
-- 👩‍🎨 Passionate about creating futuristic and luxury-style 3D user interfaces.
-- 🚀 Final Year Project: **StudyShot** – an AI-powered adaptive learning system.
-- 💼 Open to Internships and Freelance Projects.
-
----
-
-<!-- Skills -->
-## 💡 Skills & Technologies
-
-### Languages  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend & Design  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Backend & DB  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-<!-- Tools & IDEs -->
-## 🛠️ Tools I Use
-
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-<!-- Featured Projects -->
-## 📌 Featured Projects
-
-### 🎓 StudyShot – Adaptive Learning Web App
-A smart AI-powered educational platform that adapts quiz difficulty to student level.
-> 🔗 [View Project](https://yourprojectlink.com)
-
-### 🧾 Green Library System
-Automated book reservation & alert system using C# and MySQL.
-> 🔗 [View Code](https://github.com/yourusername/greenlibrary)
-
-### 🛍️ Stylora Ecommerce
-Modern UI with product filtering & shopping cart system.
-> 🔗 [View Project](https://github.com/yourusername/stylora)
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Devindi+Tharudni!;UI%2FUX+Designer+%7C+Frontend+Developer;Designing+for+Humans+%F0%9F%A4%9D;Building+with+Passion+%F0%9F%9A%80" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
+  <img src="https://img.shields.io/badge/Inspired%20by%20User-Centered%20Design-orange?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffa500,ff7f50&height=6&section=header"/>
+</div>
+
+## 🧩 About Me
+
+```yaml
+name: Devindi Tharudni
+role: UI/UX Designer & Frontend Developer
+location: Homagama, Sri Lanka 🇱🇰
+email: devinditharudini07@gmail.com
+portfolio: http://my-portfolio-ebon-six-77.vercel.app
+strengths: [collaboration, empathy, creativity, clean design, frontend responsiveness]
+```
+- 👩‍🎓 Graduate in Computer Science (University of Plymouth)
+- 🎯 Dedicated to crafting intuitive, accessible digital products
+- ✨ Turning ideas into beautiful and usable design + frontend systems
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,react,flutter,html,css,js,firebase,python,github,mysql,postman" />
 </p>
 
 ---
 
-<!-- Contact -->
-## 📫 Let's Connect
+## 📊 GitHub Overview
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devinditharudini)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devinditharudini@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevindiTharudini&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevindiTharudini&theme=radical" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevindiTharudini&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
-<!-- Footer -->
+## 🌐 Connect with Me
+
 <p align="center">
-  Made with ❤️ by Devindi Tharudini  
+  <a href="mailto:devinditharudini07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devindi-tharudini/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://my-portfolio-ebon-six-77.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=435&lines=Thank+You+for+visiting+💫;Let's+connect+and+build+something+awesome+!" />
-</p>
+
+---
+
+## ✨ Design Beliefs
+
+> “Good design is obvious. Great design is transparent.” – Joe Sparano
+
+- 👁️ Clarity over clutter
+- 🤝 Design that empathizes with real people
+- ⚡ Speed + simplicity = happy user
+
+---
+
+## 🎉 Fun Snippet
+
+```css
+.devindi::before {
+  content: "🎨 Designer who thinks in systems";
+}
+.devindi::after {
+  content: "💻 Developer who designs with care";
+}
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500,ff7f50&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
+</div> this is current full code 
