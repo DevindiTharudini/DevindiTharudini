@@ -93,5 +93,6 @@ strengths: [collaboration, empathy, creativity, clean design, frontend responsiv
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,800080&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,f75990,800080&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
 </div>
