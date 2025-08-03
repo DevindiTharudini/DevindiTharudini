@@ -120,3 +120,11 @@
   </p>
 
 </div>
+<!-- Footer Gradient Banner (SVG) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,f75990,800080&height=100&section=footer&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=20" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=500&center=true&lines=✨+Designed+%26+Developed+with+Passion+by+Devindi+Tharudni+✨" />
+</p>
